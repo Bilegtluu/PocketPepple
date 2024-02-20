@@ -29,6 +29,7 @@ export const Signup = () => {
           name,
         }),
       });
+      console.log("hah");
       console.log("haha");
 
       if (!response.ok) {
