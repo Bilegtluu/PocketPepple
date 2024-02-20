@@ -90,6 +90,7 @@ export const Signup = () => {
           >
             Sign Up
           </button>
+          <div>haha</div>
         </div>
         <div className="flex gap-2">
           <div className="font-sans text-base">Already have an account?</div>
