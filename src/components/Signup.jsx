@@ -29,6 +29,7 @@ export const Signup = () => {
           name,
         }),
       });
+      console.log("haha");
 
       if (!response.ok) {
         const data = await response.json();
